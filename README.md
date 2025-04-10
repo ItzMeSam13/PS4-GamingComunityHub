@@ -5,8 +5,6 @@
 - Member 2 – Prathamesh naik
 - Member 3 – Gangavarapu Kaarthikeya 
 
----
-
 ## 🎯 Problem Statement  
 <br>
 PS4
@@ -15,14 +13,10 @@ The gaming world is huge—but gamers and organizers are still scattered across 
 Players are using one app to stream, another to chat, and a totally different one to find and join tournaments.  
 There’s no single space where everything comes together, making it hard to connect, compete, and grow as a community.
 
----
-
 ## 🔍 What We Understood from the Problem Statement  
 Gamers today are forced to juggle between platforms just to do what they love: play, compete, and connect.  
 The experience is fragmented—there’s no unified hub for tournaments, team coordination, social interaction, or streaming.  
 We aim to solve this by building one powerful, all-in-one platform for the eSports and gaming community.
-
----
 
 ## 🛠️ Our Approach / How We Plan to Solve It  
 1. **Backend Setup** – Build a RESTful API using Node.js and Express, with Supabase for authentication and data storage.  
@@ -35,8 +29,6 @@ We aim to solve this by building one powerful, all-in-one platform for the eSpor
 8. **Role-Based Access** – Add middleware to distinguish between players, organizers, and admins.  
 9. **Smooth Navigation** – Focus on intuitive flows for key actions like joining a team or registering for an event.
 
----
-
 ## 🧰 Tech Stack
 
 - **Frontend**: Next.js, Figma  
@@ -45,4 +37,3 @@ We aim to solve this by building one powerful, all-in-one platform for the eSpor
 - **Version Control**: GitHub  
 - **Deployment**: Railway / Render (TBD)  
 - **Other Tools**: Postman (for API testing), VS Code, dotenv, cors
-
