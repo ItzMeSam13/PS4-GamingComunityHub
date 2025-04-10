@@ -35,5 +35,4 @@ We aim to solve this by building one powerful, all-in-one platform for the eSpor
 - **Backend**: Node.js, Express.js  
 - **Database & Auth**: Supabase  
 - **Version Control**: GitHub  
-- **Deployment**: Railway / Render (TBD)  
 - **Other Tools**: Postman (for API testing), VS Code, dotenv, cors
